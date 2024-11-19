@@ -181,7 +181,7 @@ header {
 /* Mobile first approach - estilo padrão para telas pequenas */
 
 
-@media (max-width: 768px) {
+@media (max-width: 760px) {
  
   .navbar {
     flex-direction: column; 
@@ -217,7 +217,7 @@ header {
 }
 
 
-@media (max-width: 360px) {
+@media (max-width: 480px) {
  
   .newspaper-name {
     font-size: 20px; 
